@@ -3,7 +3,7 @@ import java.util.*;
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.Queue;
-public class main {
+public class Main {
   public static void main(String[] args) throws IOException {
     Scanner sc = new Scanner(System.in);
     System.out.println("How many files do you have? Name these files as week1, week2, week3, etc.");
